@@ -1,4 +1,8 @@
 _repo: Mrs-Pendleton-s-Four-in-hand_51059
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51059-h/images/cover.jpg
 creator:
   author:
     agent_name: Atherton, Gertrude Franklin Horn
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/263
     wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51059#Mrs-Pendleton-s-Four-in-hand
 gutenberg_issued: '2016-01-27'
 gutenberg_type: Text
 identifiers:
